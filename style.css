@@ -1,0 +1,20 @@
+h1{
+    color: aqua;
+}
+
+button{
+   margin: 5%;
+}
+body{
+    background-color:rgb(145, 189, 189);
+    text-align: center;
+}
+.width{
+    text-align: left;
+    width: 500Px;
+    margin-top: 10%;
+    margin-left: 2%;
+}
+.card{
+    margin-left: 2%;
+}
